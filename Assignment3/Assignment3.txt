@@ -1,0 +1,11 @@
+Both Assistant and BuyHatke apps are working fine on my device.
+
+New features to be added --
+
+Assistant --
+	.. Navigation Drawer to be added to include more functionality
+	.. The design of listing of Coupon Categories should be changed to Screenshot  'Assistant.png' in the Assignment3 folder.
+		
+BuyHatke --
+	.. In Navigation Drawer profile picture of logged in user should be shown
+	.. Home, Deals, Coupons and Alerts should be shown in Bottom Navigation View as in Screenshot 'BuyHatke.png' in the Assignment3 folder.
